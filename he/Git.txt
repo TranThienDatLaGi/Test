@@ -1,0 +1,19 @@
+Lệnh git cơ bản:
+$ git config --global user.name "User Name"
+$ git config --global user.email "username@gmail.com"
+$ git init => tạo mới 
+$ git clone https://github.com/user/repository.git => clone
+$ git branch => Branch hiện tại
+$ git branch <name_branch> => tạo branch mới
+$ git checkout <name_branch> => chuyển branch
+Cập nhật thay đổi
+$ git add .
+$ git commit -m "Message"
+
+$ git push origin <name_branch> => đẩy lên
+$ git remote add origin <remote_url> => remote 
+$ git merge <new_branch> => gộp
+$ git log =>lịch sử commit
+$ git diff => Xem thay đổi trước khi push
+$ git pull origin master => lấy về
+

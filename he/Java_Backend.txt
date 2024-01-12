@@ -1,0 +1,42 @@
+https://laptrinhjavaweb.com/khoa-hoc-java-web-co-ban-jsp-servlet-jdbc-va-mysql
+https://laptrinhjavaweb.com/hoc-java-nguoi-moi-135
+https://laptrinhjavaweb.com/hoc-spring-mvc-khong-su-dung-spring-boot-186
+
+https://o7planning.org/11247/create-a-gradle-java-web-application-and-run-on-gradle-tomcat-plugin
+https://stackjava.com/install/trien-khai-ung-dung-java-web-len-tomcat.html
+
+port 8080
+
+Java web cần kiến thức nền tảng như jSP, Servlet, JDBCf sau đó mới nâng cao lên học SPRING, JPA, HIBERNATE
+(JDBC hoạt động ra sao, cách nhận request trong Servlet có mấy cách, nêu tên từng cách, commit,rollback trong JDBC là gì, MVC trong JSP Servlet hiểu như thế nào là hợp lý)
+
+-Học JSP: Bootstrap
+-Servlet: tìm hiểu @WebServlet để hiểu cách gửi request như thế nào, RequestDispatcher là gì,cách bind data ra JSP (view) dùng request.setAttribute ra làm sao
+-Học cách chia layer theo mô hình 3-tier, chia package rõ ràng
+
+JSP là gì? => một kiểu Java servlet được thiết kế để tạo ra giao diện người dùng cho một ứng dụng Java web
+Servlet là gì? => Sử dụng Servlet, bạn có thể thu thập thông tin đầu vào từ người dùng thông qua các trang web, hiển thị các bản ghi từ một cơ sở dữ liệu hoặc một nguồn khác.
+
+Sự khác biệt giữa JAR và WAR:
+Các tệp JAR chứa tệp lớp, thư viện, tài nguyên và tệp thuộc tính. 
+Tệp tin WAR chứa các servlet, các trang JSP, các trang HTML, mã JavaScript. 
+
+Single Responsibility
+Open/Closed
+Liskov Substitution
+Interface Segregation
+Dependency Inversion
+
+-Mỗi class chỉ nên chịu trách nhiệm về một nhiệm vụ cụ thể nào đó mà thôi. Không có nhiều hơn một lý do để chỉnh sửa một class.
+
+-Chúng ta có thể thoải mái mở rộng class nhưng không được chỉnh sửa nội dung bên trong nó.
+Nguyên lý này nghĩa là: Mỗi khi chúng ta thiết kế một class nào đó thì chúng ta cũng viết làm sao cho sau này, 
+mỗi khi một developer muốn thay đổi luồng trong ứng dụng. Họ chỉ cần thừa kế class ta đã viết hoặc override một hàm nào đó.
+
+-Trong một chương trình, các object của class con có thể thay thế class cha mà không làm thay đổi tính đúng đắn của chương trình
+
+-Thay vì dùng 1 interface lớn, ta nên tách thành nhiều interface nhỏ, với nhiều mục đích cụ thể
+
+-Các module cấp cao không nên phụ thuộc vào các modules cấp thấp. Cả 2 nên phụ thuộc vào abstraction.
+Interface (abstraction) không nên phụ thuộc vào chi tiết, mà ngược lại. ( Các class giao tiếp với nhau thông qua interface, không phải thông qua implementation.)
+Khi trong quá trình làm ứng dụng thực tế, khi áp dụng Dependency Inverse, ta chỉ cần quan tâm tới interface. 

@@ -1,0 +1,58 @@
+-Dự án CNTT: trang QLSV như sv.iuh.edu
+-Mục tiêu: Tạo trang web giúp sinh viên quản lý thông tin như lịch học, kết quả học tập, học phí,...
+-Tính tạm thời: 
+	+Thời gian: 6 tháng
+	+vốn: 3 tỷ
+	+rủi ro: Rò rỉ thông tin sv
+-Tiến trình thực hiện:
+	+ Thu thập yêu cầu về ứng dụng trong 1 tháng
+	+ Phân tích thiết kế:1 tháng
+	+ Xây dựng chương trình: 3 tháng
+	+ Tiến hành kiểm thử: 1 tháng
+	+ Triển khai: đưa ra các bản alpha, beta test để nâng cấp và sửa chữa trong 2 tháng
+	+ Đưa sản phẩm ra thị trường
+	+ Nâng cấp và bảo trì khi cần thiết
+-Khách hành: Những trường muốn cung cấp trang web cho học sinh quản lý
+-Nhà đầu tư: Công ty tạo ra phần mềm
+
+
+
+-Dự án CNTT: Quản lý người dân bằng căn cước công dân có gắn chíp
+-Mục tiêu: Tích hợp thông tin vào căn cước công dân có gắn chíp
+-Tính tạm thời: 
+	+Thời gian: 6 tháng
+	+vốn: 50 tỷ
+	+rủi ro: Rò rỉ thông tin công dân
+-Tiến trình thực hiện:
+	+ Thu thập yêu cầu về ứng dụng trong 1 tháng
+	+ Phân tích thiết kế:3 tháng
+	+ Xây dựng chương trình: 3 tháng
+	+ Tiến hành kiểm thử: 1 tháng
+	+ Triển khai: đưa ra các bản alpha, beta test để nâng cấp và sửa chữa trong 2 tháng
+	+ Đưa sản phẩm ra thị trường
+	+ Nâng cấp và bảo trì khi cần thiết
+-Khách hành: Chính Phủ
+-Nhà đầu tư: Chính Phủ
+
+
+
+
+-Dự án CNTT: App bán quần áo online
+-Mục tiêu: Tạo ra app cung cấp dịch vụ mua bán quần áo online
+-Tính tạm thời: 
+	+Thời gian: 6 tháng
+	+vốn: 30 tỷ
+	+rủi ro: Rò rỉ thông tin người bán và mua
+-Tiến trình thực hiện:
+	+ Thu thập yêu cầu về ứng dụng trong 1 tháng
+	+ Phân tích thiết kế:3 tháng
+	+ Xây dựng chương trình: 3 tháng
+	+ Tiến hành kiểm thử: 1 tháng
+	+ Triển khai: đưa ra các bản alpha, beta test để nâng cấp và sửa chữa trong 2 tháng
+	+ Đưa sản phẩm ra thị trường
+	+ Nâng cấp và bảo trì khi cần thiết
+
+-Khách hành: Công ty muốn tạo ra trang web
+-Nhà đầu tư: Công ty tạo ra phần mềm
+
+
